@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 sfaf
 fas
 fas
 faf
 asfsf
+=======
+dfs
+dgdg
+gs
+>>>>>>> JJ
