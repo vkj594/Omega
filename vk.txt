@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-sfaf
-fas
-fas
-faf
-asfsf
-=======
-dfs
-dgdg
-gs
->>>>>>> JJ
+we created ssh succeesfully
